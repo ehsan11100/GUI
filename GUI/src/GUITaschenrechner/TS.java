@@ -1,5 +1,4 @@
-import GUITaschenrechner.GuiTaschenrechner;
-
+package GUITaschenrechner;
 public class TS {
 
 	public static void main(String[] args) {

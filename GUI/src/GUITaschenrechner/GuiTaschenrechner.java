@@ -80,7 +80,7 @@ public class GuiTaschenrechner extends JFrame {
         			     ergibniss = 666;
         			  }
         		
-        		JOptionPane.showMessageDialog(GuiTaschenrechner.this, "Ergebnis: "+ ergibniss, "Berechnet!", JOptionPane.INFORMATION_MESSAGE);	
+        		JOptionPane.showMessageDialog(GuiTaschenrechner.this, "Ergebnis: "+ ergibniss, "", JOptionPane.INFORMATION_MESSAGE);	
         		fieldOperand1.setText("");
         		fieldOperand2.setText("");
         		
